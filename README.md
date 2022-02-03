@@ -21,4 +21,4 @@ jupyter-notebook
 ```
 Run find_cells.ipynb
 
-See paper by Iyer et al., for input example. See comments in code for parameter adjustment to optimize object detection.
+See paper by Iyer K.R. _et al._ for input example. See comments in code for parameter adjustment to optimize object detection.
