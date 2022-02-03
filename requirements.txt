@@ -1,0 +1,3 @@
+numpy
+scikit-image==0.18.3
+notebook

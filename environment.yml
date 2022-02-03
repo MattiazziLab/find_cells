@@ -1,0 +1,8 @@
+name: find_cells_env
+channels:
+  - defaults
+dependencies:
+  - python>=3.4
+  - notebook
+  - numpy
+  - scikit-image=0.18.3
