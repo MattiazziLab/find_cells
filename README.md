@@ -1,3 +1,4 @@
+![Zenodo DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7974567.svg)
 # Simple tool to find yeast cell outlines
 
 ## Installation
